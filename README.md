@@ -1,3 +1,7 @@
+# Screenshot
+
+![Screenshot](https://github.com/FadliCo/modul2kel39/blob/master/Screenshot.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
